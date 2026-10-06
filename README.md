@@ -78,6 +78,6 @@ I'm currently building hands-on projects around **containers, CI/CD pipelines, I
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [suruchi-uikey](https://www.linkedin.com/in/suruchi-uikey-25978a229)
-- 📧 Email: suruchiuikey960@gmail.com
+- 📧 Email: suruchiuikey84@gmail.com
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
